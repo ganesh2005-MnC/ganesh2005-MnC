@@ -18,17 +18,35 @@ BS Mathematics and Computing Student at NIT Agartala
 ## 🚀 About Me
 
 - 🎓 BS in Mathematics and Computing at NIT Agartala
-- 📊 Interested in Data Science and Machine Learning
+- 📊 Interested in Data Science and its applications
 - 💻 Learning Python, Pandas and Data Analysis
-- 📈 Exploring Sales Lead Analysis and Prediction Project
-- 🧠 Interested in Mathematics Research and GATE Mathematics
+- 🧠 Interested in Optimization
 
+- Currently:
+-🔭 Summer Intern at NIC Tripura
+-🏆 Building Models for Predicting Sales Leads
+-🏢 Business Analyst Intern | Harmony Infra Ventures
+-📈 Analyzing Real Estate Sales & Lead Data at Harmony Infra Ventures
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
+
+Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,c" />
+</p>
+
+Database Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=MySQL,Pandas,PostgreSQL,matplotlib,NumPy" />
+</p>
+
+Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=Excel,vscode,Git" />
 </p>
 
 ---
