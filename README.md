@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Sharma</h1>
 
 <h3 align="center">
-BS Mathematics and Computing Student at NIT Agartala
+Mathematics and Computing @NIT Agartala
 <p align="center">
 
 <img src="https://img.shields.io/badge/CGPA-9.42%2F10-blue?style=for-the-badge" />
