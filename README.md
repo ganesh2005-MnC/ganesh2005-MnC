@@ -2,17 +2,17 @@
 
 <h3 align="center">
 BS Mathematics and Computing Student at NIT Agartala
-</h3>
-![CGPA - 9.42/10](https://img.shields.io/badge/CGPA-9.6-blue)
-
-![Python](https://img.shields.io/badge/Python-Developer-yellow)
-
-![Data Analysis](https://img.shields.io/badge/AI-ML-green)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganesh2005-MnC&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
+<img src="https://img.shields.io/badge/CGPA-9.42%2F10-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge&logo=python" />
+
+<img src="https://img.shields.io/badge/AI-ML-green?style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=ganesh2005-MnC&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+
+</p>
 ---
 
 ## 🚀 About Me
