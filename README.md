@@ -31,22 +31,28 @@ BS Mathematics and Computing Student at NIT Agartala
 
 ## 🛠️ Tech Stack
 
-Languages
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
-Database Skills
+## Database Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=MySQL,Pandas,PostgreSQL,matplotlib,NumPy" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-Tools
+## Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=Excel,vscode,Git" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 ---
