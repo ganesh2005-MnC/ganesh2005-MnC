@@ -8,7 +8,7 @@ BS Mathematics and Computing Student at NIT Agartala
 
 <img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge&logo=python" />
 
-<img src="https://img.shields.io/badge/Businee-Analyst-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business-Analyst-green?style=for-the-badge" />
 
 <img src="https://komarev.com/ghpvc/?username=ganesh2005-MnC&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 
