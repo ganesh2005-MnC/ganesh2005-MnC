@@ -22,11 +22,13 @@ BS Mathematics and Computing Student at NIT Agartala
 - 💻 Learning Python, Pandas and Data Analysis
 - 🧠 Interested in Optimization
 
-- Currently:
+##  Currently:
+
 -🔭 Summer Intern at NIC Tripura
 -🏆 Building Models for Predicting Sales Leads
 -🏢 Business Analyst Intern | Harmony Infra Ventures
 -📈 Analyzing Real Estate Sales & Lead Data at Harmony Infra Ventures
+
 ---
 
 ## 🛠️ Tech Stack
