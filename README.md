@@ -64,18 +64,3 @@ BS Mathematics and Computing Student at NIT Agartala
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ganesh2005-MnC&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh2005-MnC&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ganesh2005-MnC&theme=tokyonight" />
-</p>
