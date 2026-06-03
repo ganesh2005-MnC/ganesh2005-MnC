@@ -3,7 +3,7 @@
 <h3 align="center">
 BS Mathematics and Computing Student at NIT Agartala
 </h3>
-![CGPA](https://img.shields.io/badge/CGPA-9.6-blue)
+![CGPA - 9.42/10](https://img.shields.io/badge/CGPA-9.6-blue)
 
 ![Python](https://img.shields.io/badge/Python-Developer-yellow)
 
